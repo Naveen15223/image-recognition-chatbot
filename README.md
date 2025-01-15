@@ -121,7 +121,5 @@ This project can be beneficial for:
 ## Acknowledgements
 
 - [TensorFlow](https://www.tensorflow.org/)
-- [Streamlit](https://streamlit.io/)
 - [USDA FoodData Central API](https://fdc.nal.usda.gov/api-key-signup.html)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
